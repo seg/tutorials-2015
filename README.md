@@ -22,7 +22,7 @@ Questions? [Get in touch!](mailto:matt@agilegeoscience.com)
 
 ## August 2015
 - [Mapping and validating lineaments](http://library.seg.org/doi/abs/10.1190/tle34080948.1), by Matteo Niccoli
-- [Mapping and validating lineaments](http://wiki.seg.org/wiki/Mapping_and_validating_lineaments) — article in SEG Wiki
+- [Mapping and validating lineaments](http://wiki.seg.org/wiki/Mapping_and_validating_lineaments) — summary in SEG Wiki
 - [Jupyter Notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineaments/1508_Mapping_and_validating_lineaments.ipynb)
 
 ## October 2015
